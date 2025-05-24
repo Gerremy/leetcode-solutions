@@ -4,7 +4,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
 
 ### Problems Solved:
 - 0001 - Two Sum`
-  - ✅ Brute-force solution (O(n²))
+  - [x] [Brute-force solution (O(n²))](./0001-two-sum-brute-force.py)
   - ✅ Optimized solution using hash map (O(n))
 
 More to come. 🚀
