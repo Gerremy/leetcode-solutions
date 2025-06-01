@@ -11,5 +11,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Math-only-optimized](./0009_palindrome_number_math.py)
 - 0013 - Roman to Integer
   - [x] [Standard](./0013-roman-to-integer-standard.py)
+- 0014 - Longest Common Prefix
+  - [x] [Standard](./0014-longest-common-prefix.py)
 
 More to come. 🚀
