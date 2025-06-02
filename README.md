@@ -13,5 +13,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Standard](./0013-roman-to-integer-standard.py)
 - 0014 - Longest Common Prefix
   - [x] [Standard](./0014-longest-common-prefix.py)
+- 0020 - Valid Parentheses
+  - [x] [Standard](./0020-valid-parentheses-stack-map.py)
 
 More to come. 🚀
