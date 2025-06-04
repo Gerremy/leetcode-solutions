@@ -15,5 +15,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Standard](./0014-longest-common-prefix.py)
 - 0020 - Valid Parentheses
   - [x] [Standard](./0020-valid-parentheses-stack-map.py)
+- 0021 - Merge Two Sorted Lists
+  - [x] [Optimized](./0021-merge-two-sorted-lists-optimal.py)
 
 More to come. 🚀
