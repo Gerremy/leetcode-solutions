@@ -17,5 +17,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Standard](./0020-valid-parentheses-stack-map.py)
 - 0021 - Merge Two Sorted Lists
   - [x] [Optimized](./0021-merge-two-sorted-lists-optimal.py)
+- 0026 - Remove Duplicates from Sorted Array
+  - [x] [Original](./0026-remove-duplicates-from-sorted-array.py)
 
 More to come. 🚀
