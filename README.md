@@ -19,5 +19,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Optimized](./0021-merge-two-sorted-lists-optimal.py)
 - 0026 - Remove Duplicates from Sorted Array
   - [x] [Original](./0026-remove-duplicates-from-sorted-array.py)
+- 0027 - Remove Element
+  - [x] [Original](./0027-remove-element.py)
 
 More to come. 🚀
