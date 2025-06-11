@@ -23,5 +23,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Original](./0027-remove-element.py)
 - 0028 - Find the Index of the First Occurrence in a String
   - [x] [Original](./0028-find-index-of-first-occurrence.py)
+- 0035 - Search Insert Position
+  - [x] [Original](./0035-search-insert-position.py)
 
 More to come. 🚀
