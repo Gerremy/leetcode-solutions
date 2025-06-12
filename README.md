@@ -25,5 +25,7 @@ This is my personal collection of LeetCode problem solutions, written to help me
   - [x] [Original](./0028-find-index-of-first-occurrence.py)
 - 0035 - Search Insert Position
   - [x] [Original](./0035-search-insert-position.py)
+- 0058 - Length of Last Word
+  - [x] [Original-Unrefined](./0058-length-of-last-word.py)
 
 More to come. 🚀
